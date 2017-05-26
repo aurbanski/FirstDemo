@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C343EC7B-625F-432C-B49A-13234B3048F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstDemo.iOS/Views/MainView.xib">
+    <Files>
+      <File FileName="FirstDemo.iOS/Setup.cs" Line="23" Column="40" />
+      <File FileName="FirstDemo.iOS/AppDelegate.cs" Line="25" Column="13" />
+      <File FileName="FirstDemo.iOS/Views/MainView.cs" Line="19" Column="43" />
+      <File FileName="FirstDemo.iOS/Views/MainView.xib" />
+      <File FileName="FirstDemo.iOS/Views/MainView.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstDemo.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirstDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1B2E03E5-7D0E-4628-A23B-A181C069008D" />
+</Properties>

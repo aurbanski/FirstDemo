@@ -1,0 +1,17 @@
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/FirstDemo.Core.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/FirstDemo.Core.pdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Core.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Binding.pdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Localization.pdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/obj/Debug/FirstDemo.Core.csprojResolveAssemblyReference.cache
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/obj/Debug/FirstDemo.Core.csproj.CoreCompileInputs.cache
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/obj/Debug/FirstDemo.Core.dll
+/Users/alexurbanski/Projects/FirstDemo/FirstDemo.Core/obj/Debug/FirstDemo.Core.pdb
